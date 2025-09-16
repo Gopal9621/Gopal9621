@@ -17,9 +17,8 @@
 
 ## 📂 Featured Projects
 - 🔹 *Pattern Generator* → Python/Java logic-based visual tool
-- 🔹 *Financial Tracker* → SQL + Python for personal budgeting
 - 🔹 *Personal Webpage* → HTML/CSS CV-style portfolio
-- 🔹 *Student Grade Tracker* → Java + Swing tool used
+
 
 ## 🎯 Goals
 - 📊 Master full-stack development
